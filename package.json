@@ -1,8 +1,7 @@
 {
-  "name": "image-maniac",
+  "name": "imagem",
   "version": "1.0.0",
-  "description": "Aplicação de autenticação",
-  "main": "app.js",
+   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon app.js",
@@ -16,9 +15,7 @@
     "web",
     "development"
   ],
-  "author": "Vinicius Corte",
-  "license": "ISC",
-  "homepage": "",
+   "homepage": "",
   "dependencies": {
     "dotenv": "^16.0.2",
     "express": "^4.18.1",
